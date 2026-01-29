@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+.Rproj.user
+.Rhistory
+# Dependencies (Example for Node, Python, etc.)
+node_modules/
+__pycache__/
+venv/
+.env
+
+local/
+figures/

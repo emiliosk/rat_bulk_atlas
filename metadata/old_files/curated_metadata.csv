@@ -1,0 +1,354 @@
+ID,Acronym,sex,rat_n,tissue_name,region_tissue_name,consensus_tissue_name,organ_name,regional_tissue,tissue_color,region_tissue_color,consensus_tissue_color,organ_color
+adib_female.4,adib,female,4,abdominal adipose tissue,abdominal adipose tissue,adipose tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+adib_female.1,adib,female,1,abdominal adipose tissue,abdominal adipose tissue,adipose tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+adib_male.4,adib,male,4,abdominal adipose tissue,abdominal adipose tissue,adipose tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+adib_male.1,adib,male,1,abdominal adipose tissue,abdominal adipose tissue,adipose tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+badi_female.1,badi,female,1,brown adipose,brown adipose,adipose tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+badi_female.4,badi,female,4,brown adipose,brown adipose,adipose tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+badi_male.4,badi,male,4,brown adipose,brown adipose,adipose tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+badi_male.1,badi,male,1,brown adipose,brown adipose,adipose tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+adif_female.1,adif,female,1,orbital adipose tissue,orbital adipose tissue,adipose tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+adif_female.4,adif,female,4,orbital adipose tissue,orbital adipose tissue,adipose tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+adif_male.4,adif,male,4,orbital adipose tissue,orbital adipose tissue,adipose tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+adif_male.1,adif,male,1,orbital adipose tissue,orbital adipose tissue,adipose tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+tear_female.2,tear,female,2,tear gland,tear gland,tear gland,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+tear_female.3,tear,female,3,tear gland,tear gland,tear gland,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+tear_female.1,tear,female,1,tear gland,tear gland,tear gland,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+tear_male.2,tear,male,2,tear gland,tear gland,tear gland,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+tear_male.3,tear,male,3,tear gland,tear gland,tear gland,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+tear_male.4,tear,male,4,tear gland,tear gland,tear gland,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+tear_female.4,tear,female,4,tear gland,tear gland,tear gland,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+tear_male.1,tear,male,1,tear gland,tear gland,tear gland,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+adr_male.4,adr,male,4,adrenal gland,adrenal gland,adrenal gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+adr_female.4,adr,female,4,adrenal gland,adrenal gland,adrenal gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+adr_female.1,adr,female,1,adrenal gland,adrenal gland,adrenal gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+adr_male.1,adr,male,1,adrenal gland,adrenal gland,adrenal gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+aor_male.1,aor,male,1,aorta,aorta,aorta,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+aor_female.4,aor,female,4,aorta,aorta,aorta,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+aor_female.1,aor,female,1,aorta,aorta,aorta,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+aor_male.4,aor,male,4,aorta,aorta,aorta,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+bm_male.1,bm,male,1,bone marrow,bone marrow,bone marrow,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+bm_male.4,bm,male,4,bone marrow,bone marrow,bone marrow,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+bm_female.1,bm,female,1,bone marrow,bone marrow,bone marrow,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+bm_female.4,bm,female,4,bone marrow,bone marrow,bone marrow,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+amygdala_female.2,amygdala,female,2,amygdala,amygdala,brain,Brain,TRUE,#82B579,#82B579,#FFDD00,#FFDD00
+amygdala_female.3,amygdala,female,3,amygdala,amygdala,brain,Brain,TRUE,#82B579,#82B579,#FFDD00,#FFDD00
+amygdala_male.2,amygdala,male,2,amygdala,amygdala,brain,Brain,TRUE,#82B579,#82B579,#FFDD00,#FFDD00
+amygdala_male.3,amygdala,male,3,amygdala,amygdala,brain,Brain,TRUE,#82B579,#82B579,#FFDD00,#FFDD00
+caudate.putamen_male.2,caudate putamen,male,2,caudate putamen,basal ganglia,brain,Brain,TRUE,#53C2EA,#53C2EA,#FFDD00,#FFDD00
+caudate.putamen_female.3,caudate putamen,female,3,caudate putamen,basal ganglia,brain,Brain,TRUE,#53C2EA,#53C2EA,#FFDD00,#FFDD00
+caudate.putamen_female.2,caudate putamen,female,2,caudate putamen,basal ganglia,brain,Brain,TRUE,#53C2EA,#53C2EA,#FFDD00,#FFDD00
+caudate.putamen_male.3,caudate putamen,male,3,caudate putamen,basal ganglia,brain,Brain,TRUE,#53C2EA,#53C2EA,#FFDD00,#FFDD00
+septal.area_male.2,septal area,male,2,septal area,basal ganglia,brain,Brain,TRUE,#53C2EA,#53C2EA,#FFDD00,#FFDD00
+septal.area_female.2,septal area,female,2,septal area,basal ganglia,brain,Brain,TRUE,#53C2EA,#53C2EA,#FFDD00,#FFDD00
+septal.area_male.3,septal area,male,3,septal area,basal ganglia,brain,Brain,TRUE,#53C2EA,#53C2EA,#FFDD00,#FFDD00
+septal.area_female.3,septal area,female,3,septal area,basal ganglia,brain,Brain,TRUE,#53C2EA,#53C2EA,#FFDD00,#FFDD00
+ventral.forebrain_male.2,ventral forebrain,male,2,ventral forebrain,basal ganglia,brain,Brain,TRUE,#53C2EA,#53C2EA,#FFDD00,#FFDD00
+ventral.forebrain_female.2,ventral forebrain,female,2,ventral forebrain,basal ganglia,brain,Brain,TRUE,#53C2EA,#53C2EA,#FFDD00,#FFDD00
+ventral.forebrain_male.3,ventral forebrain,male,3,ventral forebrain,basal ganglia,brain,Brain,TRUE,#53C2EA,#53C2EA,#FFDD00,#FFDD00
+ventral.forebrain_female.3,ventral forebrain,female,3,ventral forebrain,basal ganglia,brain,Brain,TRUE,#53C2EA,#53C2EA,#FFDD00,#FFDD00
+cerebellum_female.3,cerebellum,female,3,cerebellum,cerebellum,brain,Brain,TRUE,#FDCA43,#FDCA43,#FFDD00,#FFDD00
+cerebellum_female.2,cerebellum,female,2,cerebellum,cerebellum,brain,Brain,TRUE,#FDCA43,#FDCA43,#FFDD00,#FFDD00
+cerebellum_male.2,cerebellum,male,2,cerebellum,cerebellum,brain,Brain,TRUE,#FDCA43,#FDCA43,#FFDD00,#FFDD00
+cerebellum_male.3,cerebellum,male,3,cerebellum,cerebellum,brain,Brain,TRUE,#FDCA43,#FDCA43,#FFDD00,#FFDD00
+cingulate.retrosplenial.cortex_female.2,cingulate retrosplenial cortex,female,2,cingulate-retrosplenial cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+cingulate.retrosplenial.cortex_female.3,cingulate retrosplenial cortex,female,3,cingulate-retrosplenial cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+retrosplenial.cortex_male.2,retrosplenial cortex,male,2,cingulate-retrosplenial cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+retrosplenial.cortex_male.3,retrosplenial cortex,male,3,cingulate-retrosplenial cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+frontal.cortex_female.3,frontal cortex,female,3,frontal cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+frontal.cortex_male.2,frontal cortex,male,2,frontal cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+frontal.cortex_female.2,frontal cortex,female,2,frontal cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+frontal.cortex_male.3,frontal cortex,male,3,frontal cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+occipital.cortex_male.2,occipital cortex,male,2,occipital cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+occipital.cortex_male.3,occipital cortex,male,3,occipital cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+occipital.cortex_female.3,occipital cortex,female,3,occipital cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+occipital.cortex_female.2,occipital cortex,female,2,occipital cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+somatosensory.cortex_female.2,somatosensory cortex,female,2,somatosensory cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+somatosensory.cortex_male.3,somatosensory cortex,male,3,somatosensory cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+somatosensory.cortex_male.2,somatosensory cortex,male,2,somatosensory cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+somatosensory.cortex_female.3,somatosensory cortex,female,3,somatosensory cortex,cerebral cortex,brain,Brain,TRUE,#53977F,#53977F,#FFDD00,#FFDD00
+corpus.callosum_male.3,corpus callosum,male,3,corpus callosum,corpus callosum,brain,Brain,TRUE,#878786,#878786,#FFDD00,#FFDD00
+corpus.callosum_female.2,corpus callosum,female,2,corpus callosum,corpus callosum,brain,Brain,TRUE,#878786,#878786,#FFDD00,#FFDD00
+entorhinal.cortex_male.3,entorhinal cortex,male,3,entorhinal cortex,hippocampal formation,brain,Brain,TRUE,#B4CE52,#B4CE52,#FFDD00,#FFDD00
+entorhinal.cortex_male.2,entorhinal cortex,male,2,entorhinal cortex,hippocampal formation,brain,Brain,TRUE,#B4CE52,#B4CE52,#FFDD00,#FFDD00
+entorhinal.cortex_female.2,entorhinal cortex,female,3,entorhinal cortex,hippocampal formation,brain,Brain,TRUE,#B4CE52,#B4CE52,#FFDD00,#FFDD00
+entorhinal.cortex_female.3,entorhinal cortex,female,3,entorhinal cortex,hippocampal formation,brain,Brain,TRUE,#B4CE52,#B4CE52,#FFDD00,#FFDD00
+hippocampus_male.3,hippocampus,male,3,ventral hippocampus,hippocampal formation,brain,Brain,TRUE,#B4CE52,#B4CE52,#FFDD00,#FFDD00
+hippocampus_female.3,hippocampus,female,3,ventral hippocampus,hippocampal formation,brain,Brain,TRUE,#B4CE52,#B4CE52,#FFDD00,#FFDD00
+hippocampus_male.2,hippocampus,male,2,ventral hippocampus,hippocampal formation,brain,Brain,TRUE,#B4CE52,#B4CE52,#FFDD00,#FFDD00
+hippocampus_female.2,hippocampus,female,2,ventral hippocampus,hippocampal formation,brain,Brain,TRUE,#B4CE52,#B4CE52,#FFDD00,#FFDD00
+hypothalamus_male.3,hypothalamus,male,3,hypothalamus,hypothalamus,brain,Brain,TRUE,#E6351D,#E6351D,#FFDD00,#FFDD00
+hypothalamus_male.2,hypothalamus,male,2,hypothalamus,hypothalamus,brain,Brain,TRUE,#E6351D,#E6351D,#FFDD00,#FFDD00
+hypothalamus_female.3,hypothalamus,female,3,hypothalamus,hypothalamus,brain,Brain,TRUE,#E6351D,#E6351D,#FFDD00,#FFDD00
+hypothalamus_female.2,hypothalamus,female,2,hypothalamus,hypothalamus,brain,Brain,TRUE,#E6351D,#E6351D,#FFDD00,#FFDD00
+midbrain_male.2,midbrain,male,2,midbrain,midbrain,brain,Brain,TRUE,#B67AB3,#B67AB3,#FFDD00,#FFDD00
+midbrain_female.3,midbrain,female,3,midbrain,midbrain,brain,Brain,TRUE,#B67AB3,#B67AB3,#FFDD00,#FFDD00
+midbrain_female.2,midbrain,female,2,midbrain,midbrain,brain,Brain,TRUE,#B67AB3,#B67AB3,#FFDD00,#FFDD00
+midbrain_male.3,midbrain,male,3,midbrain,midbrain,brain,Brain,TRUE,#B67AB3,#B67AB3,#FFDD00,#FFDD00
+olfactory.bulb_male.2,olfactory bulb,male,2,olfactory bulb,olfactory bulb,brain,Brain,TRUE,#99D0C1,#99D0C1,#FFDD00,#FFDD00
+olfactory.bulb_female.2,olfactory bulb,female,2,olfactory bulb,olfactory bulb,brain,Brain,TRUE,#99D0C1,#99D0C1,#FFDD00,#FFDD00
+olfactory.bulb_male.3,olfactory bulb,male,3,olfactory bulb,olfactory bulb,brain,Brain,TRUE,#99D0C1,#99D0C1,#FFDD00,#FFDD00
+olfactory.bulb_female.3,olfactory bulb,female,3,olfactory bulb,olfactory bulb,brain,Brain,TRUE,#99D0C1,#99D0C1,#FFDD00,#FFDD00
+medulla_male.2,medulla,male,2,medulla,pons and medulla,brain,Brain,TRUE,#EA5699,#EA5699,#FFDD00,#FFDD00
+medulla_male.3,medulla,male,3,medulla,pons and medulla,brain,Brain,TRUE,#EA5699,#EA5699,#FFDD00,#FFDD00
+medulla_female.3,medulla,female,3,medulla,pons and medulla,brain,Brain,TRUE,#EA5699,#EA5699,#FFDD00,#FFDD00
+medulla_female.2,medulla,female,2,medulla,pons and medulla,brain,Brain,TRUE,#EA5699,#EA5699,#FFDD00,#FFDD00
+pons_female.3,pons,female,3,pons,pons and medulla,brain,Brain,TRUE,#EA5699,#EA5699,#FFDD00,#FFDD00
+pons_female.2,pons,female,2,pons,pons and medulla,brain,Brain,TRUE,#EA5699,#EA5699,#FFDD00,#FFDD00
+pons_male.2,pons,male,2,pons,pons and medulla,brain,Brain,TRUE,#EA5699,#EA5699,#FFDD00,#FFDD00
+pons_male.3,pons,male,3,pons,pons and medulla,brain,Brain,TRUE,#EA5699,#EA5699,#FFDD00,#FFDD00
+drg_female.2,drg,female,2,dorsal root ganglia,spinal cord,brain,Brain,TRUE,#008BCC,#008BCC,#FFDD00,#FFDD00
+drg_male.3,drg,male,3,dorsal root ganglia,spinal cord,brain,Brain,TRUE,#008BCC,#008BCC,#FFDD00,#FFDD00
+drg_male.2,drg,male,2,dorsal root ganglia,spinal cord,brain,Brain,TRUE,#008BCC,#008BCC,#FFDD00,#FFDD00
+drg_female.3,drg,female,3,dorsal root ganglia,spinal cord,brain,Brain,TRUE,#008BCC,#008BCC,#FFDD00,#FFDD00
+spinal.cord_male.2,spinal cord,male,2,ventral spinal cord,spinal cord,brain,Brain,TRUE,#008BCC,#008BCC,#FFDD00,#FFDD00
+spinal.cord_female.3,spinal cord,female,3,ventral spinal cord,spinal cord,brain,Brain,TRUE,#008BCC,#008BCC,#FFDD00,#FFDD00
+spinal.cord_male.3,spinal cord,male,3,ventral spinal cord,spinal cord,brain,Brain,TRUE,#008BCC,#008BCC,#FFDD00,#FFDD00
+spinal.cord_female.2,spinal cord,female,2,ventral spinal cord,spinal cord,brain,Brain,TRUE,#008BCC,#008BCC,#FFDD00,#FFDD00
+thalamus_female.3,thalamus,female,3,thalamus,thalamus,brain,Brain,TRUE,#EA9586,#EA9586,#FFDD00,#FFDD00
+thalamus_male.3,thalamus,male,3,thalamus,thalamus,brain,Brain,TRUE,#EA9586,#EA9586,#FFDD00,#FFDD00
+thalamus_female.2,thalamus,female,2,thalamus,thalamus,brain,Brain,TRUE,#EA9586,#EA9586,#FFDD00,#FFDD00
+thalamus_male.2,thalamus,male,2,thalamus,thalamus,brain,Brain,TRUE,#EA9586,#EA9586,#FFDD00,#FFDD00
+bre_female.4,bre,female,4,breast,breast,breast,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+bre_female.1,bre,female,1,breast,breast,breast,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+care_male.4,care,male,4,ear cartilage,ear cartilage,cartilage,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+care_female.4,care,female,4,ear cartilage,ear cartilage,cartilage,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+care_female.1,care,female,1,ear cartilage,ear cartilage,cartilage,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+earo_male.1,earo,male,1,outer ear,outer ear,outer ear,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+earo_female.4,earo,female,4,outer ear,outer ear,outer ear,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+earo_female.1,earo,female,1,outer ear,outer ear,outer ear,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+earo_male.4,earo,male,4,outer ear,outer ear,outer ear,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+carj_female.1,carj,female,1,joint cartilage,joint cartilage,cartilage,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+cer_female.4,cer,female,4,cervix,cervix,cervix,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+cer_female.1,cer,female,1,cervix,cervix,cervix,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+choroid.plexus_male.2,choroid plexus,male,2,choroid plexus,choroid plexus,choroid plexus,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+choroid.plexus_female.3,choroid plexus,female,3,choroid plexus,choroid plexus,choroid plexus,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+choroid.plexus_female.2,choroid plexus,female,2,choroid plexus,choroid plexus,choroid plexus,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+art_female.4,art,female,4,artery,artery,circulatory system,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+art_male.4,art,male,4,artery,artery,circulatory system,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+clit_female.4,clit,female,4,clitoris,clitoris,clitoris,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+clit_female.1,clit,female,1,clitoris,clitoris,clitoris,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+cor_male.2,cor,male,2,cornea,cornea,cornea,Eye,FALSE,#FFEF78,#FFEF78,#FFEF78,#FFEF78
+cor_female.2,cor,female,2,cornea,cornea,cornea,Eye,FALSE,#FFEF78,#FFEF78,#FFEF78,#FFEF78
+duc_male.1,duc,male,1,ductus deferens,ductus deferens,ductus deferens,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+duc_male.4,duc,male,4,ductus deferens,ductus deferens,ductus deferens,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+meninges_male.2,meninges,male,2,meninges,meninges,meninges,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+meninges_female.2,meninges,female,2,meninges,meninges,meninges,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+meninges_female.3,meninges,female,3,meninges,meninges,meninges,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+meninges_male.3,meninges,male,3,meninges,meninges,meninges,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+end_female.4,end,female,4,endometrium,endometrium,endometrium,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+end_female.1,end,female,1,endometrium,endometrium,endometrium,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+epi_male.4,epi,male,4,epididymis,epididymis,epididymis,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+epi_male.1,epi,male,1,epididymis,epididymis,epididymis,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+eso_male.4,eso,male,4,esophagus,esophagus,esophagus,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+eso_female.1,eso,female,1,esophagus,esophagus,esophagus,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+eso_male.1,eso,male,1,esophagus,esophagus,esophagus,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+eso_female.4,eso,female,4,esophagus,esophagus,esophagus,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+fal_female.4,fal,female,4,fallopian tube,fallopian tube,fallopian tube,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+fal_female.1,fal,female,1,fallopian tube,fallopian tube,fallopian tube,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+felg_female.1,felg,female,1,female preputial gland,female preputial gland,female glands,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+heaa_male.4,heaa,male,4,heart atrium,heart atrium,heart,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+heaa_female.1,heaa,female,1,heart atrium,heart atrium,heart,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+heaa_male.1,heaa,male,1,heart atrium,heart atrium,heart,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+heaa_female.4,heaa,female,4,heart atrium,heart atrium,heart,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+heaw_female.4,heaw,female,4,heart wall,heart wall,heart,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+heaw_female.1,heaw,female,1,heart wall,heart wall,heart,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+heaw_male.4,heaw,male,4,heart wall,heart wall,heart,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+heaw_male.1,heaw,male,1,heart wall,heart wall,heart,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+kidc_male.1,kidc,male,1,kidney (cortex),kidney (cortex),kidney,Kidney & urinary bladder,FALSE,#F9A266,#F9A266,#F9A266,#F9A266
+kidc_female.4,kidc,female,4,kidney (cortex),kidney (cortex),kidney,Kidney & urinary bladder,FALSE,#F9A266,#F9A266,#F9A266,#F9A266
+kidc_male.4,kidc,male,4,kidney (cortex),kidney (cortex),kidney,Kidney & urinary bladder,FALSE,#F9A266,#F9A266,#F9A266,#F9A266
+kidc_female.1,kidc,female,1,kidney (cortex),kidney (cortex),kidney,Kidney & urinary bladder,FALSE,#F9A266,#F9A266,#F9A266,#F9A266
+kidm_male.4,kidm,male,4,kidney (medulla),kidney (medulla),kidney,Kidney & urinary bladder,FALSE,#F9A266,#F9A266,#F9A266,#F9A266
+kidm_female.1,kidm,female,1,kidney (medulla),kidney (medulla),kidney,Kidney & urinary bladder,FALSE,#F9A266,#F9A266,#F9A266,#F9A266
+kidm_male.1,kidm,male,1,kidney (medulla),kidney (medulla),kidney,Kidney & urinary bladder,FALSE,#F9A266,#F9A266,#F9A266,#F9A266
+kidm_female.4,kidm,female,4,kidney (medulla),kidney (medulla),kidney,Kidney & urinary bladder,FALSE,#F9A266,#F9A266,#F9A266,#F9A266
+cec_female.1,cec,female,1,cecum,cecum,large intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+cec_male.1,cec,male,1,cecum,cecum,large intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+cec_male.4,cec,male,4,cecum,cecum,large intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+cec_female.4,cec,female,4,cecum,cecum,large intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+col_male.4,col,male,4,colon,colon,large intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+col_male.1,col,male,1,colon,colon,large intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+col_female.1,col,female,1,colon,colon,large intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+col_female.4,col,female,4,colon,colon,large intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+rec_female.1,rec,female,1,rectum,rectum,large intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+rec_male.1,rec,male,1,rectum,rectum,large intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+rec_female.4,rec,female,4,rectum,rectum,large intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+rec_male.4,rec,male,4,rectum,rectum,large intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+len_female.2,len,female,2,lens,lens,lens,Eye,FALSE,#FFEF78,#FFEF78,#FFEF78,#FFEF78
+len_male.3,len,male,3,lens,lens,lens,Eye,FALSE,#FFEF78,#FFEF78,#FFEF78,#FFEF78
+len_female.3,len,female,3,lens,lens,lens,Eye,FALSE,#FFEF78,#FFEF78,#FFEF78,#FFEF78
+liv1_male.1,liv1,male,1,liver (lobe 1),liver (lobe 1),liver,Liver,FALSE,#D1CBE5,#D1CBE5,#D1CBE5,#D1CBE5
+liv1_female.4,liv1,female,4,liver (lobe 1),liver (lobe 1),liver,Liver,FALSE,#D1CBE5,#D1CBE5,#D1CBE5,#D1CBE5
+liv1_female.1,liv1,female,1,liver (lobe 1),liver (lobe 1),liver,Liver,FALSE,#D1CBE5,#D1CBE5,#D1CBE5,#D1CBE5
+liv1_male.4,liv1,male,4,liver (lobe 1),liver (lobe 1),liver,Liver,FALSE,#D1CBE5,#D1CBE5,#D1CBE5,#D1CBE5
+liv2_female.1,liv2,female,1,liver (lobe 4),liver (lobe 4),liver,Liver,FALSE,#D1CBE5,#D1CBE5,#D1CBE5,#D1CBE5
+liv2_female.4,liv2,female,4,liver (lobe 4),liver (lobe 4),liver,Liver,FALSE,#D1CBE5,#D1CBE5,#D1CBE5,#D1CBE5
+liv2_male.1,liv2,male,1,liver (lobe 4),liver (lobe 4),liver,Liver,FALSE,#D1CBE5,#D1CBE5,#D1CBE5,#D1CBE5
+liv2_male.4,liv2,male,4,liver (lobe 4),liver (lobe 4),liver,Liver,FALSE,#D1CBE5,#D1CBE5,#D1CBE5,#D1CBE5
+bro_female.4,bro,female,4,bronchus,bronchus,lung,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+bro_male.4,bro,male,4,bronchus,bronchus,lung,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+bro_female.1,bro,female,1,bronchus,bronchus,lung,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+bro_male.1,bro,male,1,bronchus,bronchus,lung,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+lun_female.4,lun,female,4,lung,lung,lung,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+lun_female.1,lun,female,1,lung,lung,lung,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+lun_male.1,lun,male,1,lung,lung,lung,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+lun_male.4,lun,male,4,lung,lung,lung,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+lym_female.4,lym,female,4,lymph node,lymph node,lymphoid tissue,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+lym_male.1,lym,male,1,lymph node,lymph node,lymphoid tissue,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+lym_female.1,lym,female,1,lymph node,lymph node,lymphoid tissue,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+lym_male.4,lym,male,4,lymph node,lymph node,lymphoid tissue,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+spl_female.4,spl,female,4,spleen,spleen,lymphoid tissue,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+spl_male.1,spl,male,1,spleen,spleen,lymphoid tissue,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+spl_female.1,spl,female,1,spleen,spleen,lymphoid tissue,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+spl_male.4,spl,male,4,spleen,spleen,lymphoid tissue,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+thym_female.4,thym,female,4,thymus,thymus,lymphoid tissue,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+thym_female.1,thym,female,1,thymus,thymus,lymphoid tissue,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+thym_male.4,thym,male,4,thymus,thymus,lymphoid tissue,Bone marrow & immune system,FALSE,#A1A8AA,#A1A8AA,#A1A8AA,#A1A8AA
+bul_male.4,bul,male,4,bulbourethral gland,bulbourethral gland,male glands,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+malg_male.4,malg,male,4,male preputial gland,male preputial gland,male glands,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+malg_male.1,malg,male,1,male preputial gland,male preputial gland,male glands,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+pro.a_male.1,pro-a,male,1,prostate,prostate,male glands,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+pro.a_male.4,pro-a,male,4,prostate,prostate,male glands,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+pro.2_male.4,pro-2,male,4,prostate,prostate,male glands,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+pro.2_male.1,pro-2,male,1,prostate,prostate,male glands,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+sem_male.1,sem,male,1,seminal vesicle,seminal vesicle,male glands,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+sem_male.4,sem,male,4,seminal vesicle,seminal vesicle,male glands,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+pcard_female.4,pcard,female,4,pericardium,pericardium,mesothelial tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+pcard_female.1,pcard,female,1,pericardium,pericardium,mesothelial tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+pcard_male.4,pcard,male,4,pericardium,pericardium,mesothelial tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+ple_male.1,ple,male,1,pleura,pleura,mesothelial tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+skil_female.1,skil,female,1,lip,lip,mouth,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+skil_female.4,skil,female,4,lip,lip,mouth,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+skil_male.1,skil,male,1,lip,lip,mouth,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+skil_male.4,skil,male,4,lip,lip,mouth,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+ora_female.4,ora,female,4,oral mucosa,oral mucosa,mouth,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+ora_male.4,ora,male,4,oral mucosa,oral mucosa,mouth,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+ora_female.1,ora,female,1,oral mucosa,oral mucosa,mouth,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+ora_male.1,ora,male,1,oral mucosa,oral mucosa,mouth,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+tong_female.4,tong,female,4,tongue,tongue,mouth,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+tong_male.1,tong,male,1,tongue,tongue,mouth,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+tong_male.4,tong,male,4,tongue,tongue,mouth,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+tong_female.1,tong,female,1,tongue,tongue,mouth,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+ova_female.1,ova,female,1,ovary,ovary,ovary,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+ova_female.4,ova,female,4,ovary,ovary,ovary,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+pan_female.4,pan,female,4,pancreas,pancreas,pancreas,Pancreas,FALSE,#96C08E,#96C08E,#96C08E,#96C08E
+pan_male.4,pan,male,4,pancreas,pancreas,pancreas,Pancreas,FALSE,#96C08E,#96C08E,#96C08E,#96C08E
+pan_male.1,pan,male,1,pancreas,pancreas,pancreas,Pancreas,FALSE,#96C08E,#96C08E,#96C08E,#96C08E
+pan_female.1,pan,female,1,pancreas,pancreas,pancreas,Pancreas,FALSE,#96C08E,#96C08E,#96C08E,#96C08E
+para_female.1,para,female,1,parathyroid gland,parathyroid gland,parathyroid gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+para_female.4,para,female,4,parathyroid gland,parathyroid gland,parathyroid gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+para_male.4,para,male,4,parathyroid gland,parathyroid gland,parathyroid gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+pen_male.1,pen,male,1,penis,penis,penis,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+pen_male.4,pen,male,4,penis,penis,penis,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+pineal_female.4,pineal,female,4,pineal gland,pineal gland,pineal gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+pineal_female.1,pineal,female,1,pineal gland,pineal gland,pineal gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+pineal_female.2,pineal,female,2,pineal gland,pineal gland,pineal gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+pineal_female.3,pineal,female,3,pineal gland,pineal gland,pineal gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+pituitary_male.2,pituitary,male,2,pituitary gland,pituitary gland,pituitary gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+pituitary_female.2,pituitary,female,2,pituitary gland,pituitary gland,pituitary gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+pituitary_male.3,pituitary,male,3,pituitary gland,pituitary gland,pituitary gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+pituitary_female.3,pituitary,female,3,pituitary gland,pituitary gland,pituitary gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+ret_female.2,ret,female,2,retina,retina,retina,Eye,FALSE,#FFEF78,#FFEF78,#FFEF78,#FFEF78
+ret_male.2,ret,male,2,retina,retina,retina,Eye,FALSE,#FFEF78,#FFEF78,#FFEF78,#FFEF78
+ret_female.3,ret,female,3,retina,retina,retina,Eye,FALSE,#FFEF78,#FFEF78,#FFEF78,#FFEF78
+ret_male.3,ret,male,3,retina,retina,retina,Eye,FALSE,#FFEF78,#FFEF78,#FFEF78,#FFEF78
+sal_female.4,sal,female,4,salivary gland,salivary gland,salivary gland,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+sal_female.1,sal,female,1,salivary gland,salivary gland,salivary gland,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+sal_male.4,sal,male,4,salivary gland,salivary gland,salivary gland,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+sal_male.1,sal,male,1,salivary gland,salivary gland,salivary gland,Proximal digestive tract,FALSE,#FBDAD9,#FBDAD9,#FBDAD9,#FBDAD9
+dia_male.1,dia,male,1,diaphragm,diaphragm,skeletal muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+dia_female.1,dia,female,1,diaphragm,diaphragm,skeletal muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+dia_male.4,dia,male,4,diaphragm,diaphragm,skeletal muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+dia_female.4,dia,female,4,diaphragm,diaphragm,skeletal muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+ske_female.1,ske,female,1,skeletal muscle,skeletal muscle,skeletal muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+ske_male.1,ske,male,1,skeletal muscle,skeletal muscle,skeletal muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+ske_female.4,ske,female,4,skeletal muscle,skeletal muscle,skeletal muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+ske_male.4,ske,male,4,skeletal muscle,skeletal muscle,skeletal muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+skih_female.1,skih,female,1,skin (back),skin (back),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+skih_male.1,skih,male,1,skin (back),skin (back),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+skih_female.4,skih,female,4,skin (back),skin (back),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+skih_male.4,skih,male,4,skin (back),skin (back),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+elid_male.3,elid,male,3,skin (eye),skin (eye),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+elid_female.1,elid,female,1,skin (eye),skin (eye),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+elid_female.2,elid,female,2,skin (eye),skin (eye),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+elid_male.4,elid,male,4,skin (eye),skin (eye),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+elid_female.3,elid,female,3,skin (eye),skin (eye),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+elid_female.4,elid,female,4,skin (eye),skin (eye),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+elid_male.1,elid,male,1,skin (eye),skin (eye),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+elid_male.2,elid,male,2,skin (eye),skin (eye),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+skib_male.4,skib,male,4,skin (groin),skin (groin),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+skib_male.1,skib,male,1,skin (groin),skin (groin),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+skib_female.1,skib,female,1,skin (groin),skin (groin),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+skib_female.4,skib,female,4,skin (groin),skin (groin),skin,Skin,FALSE,#FCCAB3,#FCCAB3,#FCCAB3,#FCCAB3
+duo_female.1,duo,female,1,duodenum,duodenum,small intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+duo_male.1,duo,male,1,duodenum,duodenum,small intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+duo_female.4,duo,female,4,duodenum,duodenum,small intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+duo_male.4,duo,male,4,duodenum,duodenum,small intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+ile_male.4,ile,male,4,ileum,ileum,small intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+ile_female.1,ile,female,1,ileum,ileum,small intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+ile_male.1,ile,male,1,ileum,ileum,small intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+ile_female.4,ile,female,4,ileum,ileum,small intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+juj_female.1,juj,female,1,jejunum,jejunum,small intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+juj_female.4,juj,female,4,jejunum,jejunum,small intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+juj_male.4,juj,male,4,jejunum,jejunum,small intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+juj_male.1,juj,male,1,jejunum,jejunum,small intestine,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+smoi_female.4,smoi,female,4,smooth muscle (intestine),smooth muscle (intestine),smooth muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+smoi_male.1,smoi,male,1,smooth muscle (intestine),smooth muscle (intestine),smooth muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+smoi_female.1,smoi,female,1,smooth muscle (intestine),smooth muscle (intestine),smooth muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+smoi_male.4,smoi,male,4,smooth muscle (intestine),smooth muscle (intestine),smooth muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+smou_female.1,smou,female,1,smooth muscle (uterus),smooth muscle (uterus),smooth muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+smou_female.4,smou,female,4,smooth muscle (uterus),smooth muscle (uterus),smooth muscle,Muscle tissues,FALSE,#DE6C7D,#DE6C7D,#DE6C7D,#DE6C7D
+stol_male.4,stol,male,4,stomach (lower),stomach (lower),stomach,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+stol_female.4,stol,female,4,stomach (lower),stomach (lower),stomach,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+stol_female.1,stol,female,1,stomach (lower),stomach (lower),stomach,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+stol_male.1,stol,male,1,stomach (lower),stomach (lower),stomach,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+stom_female.4,stom,female,4,stomach (middle),stomach (middle),stomach,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+stom_male.1,stom,male,1,stomach (middle),stomach (middle),stomach,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+stom_female.1,stom,female,1,stomach (middle),stomach (middle),stomach,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+stom_male.4,stom,male,4,stomach (middle),stomach (middle),stomach,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+stou_female.4,stou,female,4,stomach (upper),stomach (upper),stomach,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+stou_male.4,stou,male,4,stomach (upper),stomach (upper),stomach,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+stou_male.1,stou,male,1,stomach (upper),stomach (upper),stomach,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+stou_female.1,stou,female,1,stomach (upper),stomach (upper),stomach,Gastrointestinal tract,FALSE,#1280C4,#1280C4,#1280C4,#1280C4
+syn_female.4,syn,female,4,synovial tissue,synovial tissue,synovial tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+syn_male.1,syn,male,1,synovial tissue,synovial tissue,synovial tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+syn_female.1,syn,female,1,synovial tissue,synovial tissue,synovial tissue,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+tes_male.1,tes,male,1,testis,testis,testis,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+tes_male.4,tes,male,4,testis,testis,testis,Male reproductive system,FALSE,#95D4F5,#95D4F5,#95D4F5,#95D4F5
+thyr_male.1,thyr,male,1,thyroid gland,thyroid gland,thyroid gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+thyr_male.4,thyr,male,4,thyroid gland,thyroid gland,thyroid gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+thyr_female.1,thyr,female,1,thyroid gland,thyroid gland,thyroid gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+thyr_female.4,thyr,female,4,thyroid gland,thyroid gland,thyroid gland,Endocrine tissues,FALSE,#7F6A9C,#7F6A9C,#7F6A9C,#7F6A9C
+lar_female.1,lar,female,1,larynx,larynx,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+lar_female.4,lar,female,4,larynx,larynx,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+lar_male.4,lar,male,4,larynx,larynx,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+lar_male.1,lar,male,1,larynx,larynx,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+nas_female.4,nas,female,4,nasopharynx epithelium,nasopharynx epithelium,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+nas_male.1,nas,male,1,nasopharynx epithelium,nasopharynx epithelium,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+nas_female.1,nas,female,1,nasopharynx epithelium,nasopharynx epithelium,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+nas_male.4,nas,male,4,nasopharynx epithelium,nasopharynx epithelium,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+olf_male.4,olf,male,4,olfactory epithelium,olfactory epithelium,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+olf_female.4,olf,female,4,olfactory epithelium,olfactory epithelium,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+olf_male.1,olf,male,1,olfactory epithelium,olfactory epithelium,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+olf_female.1,olf,female,1,olfactory epithelium,olfactory epithelium,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+trac_male.1,trac,male,1,trachea,trachea,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+trac_female.4,trac,female,4,trachea,trachea,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+trac_male.4,trac,male,4,trachea,trachea,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+trac_female.1,trac,female,1,trachea,trachea,upper respiratory system,Respiratory system,FALSE,#6AA692,#6AA692,#6AA692,#6AA692
+uri_female.4,uri,female,4,urinary bladder,urinary bladder,urinary bladder,Kidney & urinary bladder,FALSE,#F9A266,#F9A266,#F9A266,#F9A266
+uri_male.4,uri,male,4,urinary bladder,urinary bladder,urinary bladder,Kidney & urinary bladder,FALSE,#F9A266,#F9A266,#F9A266,#F9A266
+uri_female.1,uri,female,1,urinary bladder,urinary bladder,urinary bladder,Kidney & urinary bladder,FALSE,#F9A266,#F9A266,#F9A266,#F9A266
+uri_male.1,uri,male,1,urinary bladder,urinary bladder,urinary bladder,Kidney & urinary bladder,FALSE,#F9A266,#F9A266,#F9A266,#F9A266
+ute_female.4,ute,female,4,uterus,uterus,uterus,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+ute_female.1,ute,female,1,uterus,uterus,uterus,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+vagi_female.1,vagi,female,1,vagina,vagina,vagina,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+vagi_female.4,vagi,female,4,vagina,vagina,vagina,Breast and female reproductive system,FALSE,#F8BDD7,#F8BDD7,#F8BDD7,#F8BDD7
+vagu_female.4,vagu,female,4,vagus nerve,vagus nerve,vagus nerve,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+vagu_male.1,vagu,male,1,vagus nerve,vagus nerve,vagus nerve,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+vagu_male.4,vagu,male,4,vagus nerve,vagus nerve,vagus nerve,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+vagu_female.1,vagu,female,1,vagus nerve,vagus nerve,vagus nerve,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+vein_female.4,vein,female,4,vein,vein,vein,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+vein_male.4,vein,male,4,vein,vein,vein,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+vein_female.1,vein,female,1,vein,vein,vein,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD
+vein_male.1,vein,male,1,vein,vein,vein,Adipose & soft tissue,FALSE,#A7DACD,#A7DACD,#A7DACD,#A7DACD

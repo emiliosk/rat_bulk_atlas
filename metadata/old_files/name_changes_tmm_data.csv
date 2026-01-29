@@ -1,0 +1,17 @@
+﻿old_name,new_name
+cor_female.3,removed
+len_male.2,removed
+cor_male.3,removed
+occipital.cortex_female.2,midbrain_female.2
+midbrain_female.2,occipital.cortex_female.2
+corpus.callosum_male.2,removed
+entorhinal.cortex_female.2,removed
+adis_male.4,removed
+adis_male.1,removed
+adis_female.4,removed
+adis_female.1,removed
+care_male.1,removed
+ute_female.4,end_female.1
+vagi_female.4,cer_female.1
+end_female.1,ute_female.4
+cer_female.1,vagi_female.4

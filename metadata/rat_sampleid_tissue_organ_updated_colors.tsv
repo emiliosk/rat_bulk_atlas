@@ -1,0 +1,418 @@
+scilifelab_id	from_sample_tissue	tissue	organ_name	organ_short_name	color	organ_order	tissue_order	organ_color	comment_260126	keep_260126
+E100006703_52	retrosplenial and cingulate cortex	brain	Brain	Brain	#FFDD00	1	29	#F1BF46		
+E100006703_26	retrosplenial and cingulate cortex	brain	Brain	Brain	#FFDD00	1	29	#F1BF46	some cerebellum genes?	
+E100006701_52	retrosplenial and cingulate cortex	brain	Brain	Brain	#FFDD00	1	29	#F1BF46		
+E100006698_64	retrosplenial and cingulate cortex	brain	Brain	Brain	#FFDD00	1	29	#F1BF46		
+E100006695_128	retrosplenial and cingulate cortex	brain	Brain	Brain	#FFDD00	1	29	#F1BF46	some cerebellum genes?	
+E100006697_26	somatosensory cortex	brain	Brain	Brain	#FFDD00	1	31	#F1BF46		
+E100006697_127	somatosensory cortex	brain	Brain	Brain	#FFDD00	1	31	#F1BF46		
+E100006697_122	somatosensory cortex	brain	Brain	Brain	#FFDD00	1	31	#F1BF46		
+E100006695_32	somatosensory cortex	brain	Brain	Brain	#FFDD00	1	31	#F1BF46		
+E100006703_36	olfactory bulb	brain	Brain	Brain	#FFDD00	1	39	#F1BF46		
+E100006703_30	olfactory bulb	brain	Brain	Brain	#FFDD00	1	39	#F1BF46		
+E100006703_116	olfactory bulb	brain	Brain	Brain	#FFDD00	1	39	#F1BF46		
+E100006698_63	olfactory bulb	brain	Brain	Brain	#FFDD00	1	39	#F1BF46		
+E100006703_115	entorhinal cortex	brain	Brain	Brain	#FFDD00	1	45	#F1BF46	klind of low q	
+E100006701_115	entorhinal cortex	brain	Brain	Brain	#FFDD00	1	45	#F1BF46	klind of low q	
+E100006698_69	entorhinal cortex	brain	Brain	Brain	#FFDD00	1	45	#F1BF46		
+E100006695_99	entorhinal cortex	brain	Brain	Brain	#FFDD00	1	45	#F1BF46		
+E100006695_124	entorhinal cortex	brain	Brain	Brain	#FFDD00	1	45	#F1BF46		
+E100006703_51	caudate putamen	brain	Brain	Brain	#FFDD00	1	59	#F1BF46		
+E100006703_34	caudate putamen	brain	Brain	Brain	#FFDD00	1	59	#F1BF46		
+E100006703_25	caudate putamen	brain	Brain	Brain	#FFDD00	1	59	#F1BF46		
+E100006698_67	caudate putamen	brain	Brain	Brain	#FFDD00	1	59	#F1BF46		
+E100006703_55	ventral forebrain	brain	Brain	Brain	#FFDD00	1	61	#F1BF46	has hypothalamus  (AVP + OXT)	discuss
+E100006703_33	ventral forebrain	brain	Brain	Brain	#FFDD00	1	61	#F1BF46	has hypothalamus  (AVP + OXT)	discuss
+E100006703_128	ventral forebrain	brain	Brain	Brain	#FFDD00	1	61	#F1BF46		
+E100006701_33	ventral forebrain	brain	Brain	Brain	#FFDD00	1	61	#F1BF46	has hypothalamus  (AVP + OXT)	discuss
+E100006700_128	ventral forebrain	brain	Brain	Brain	#FFDD00	1	61	#F1BF46		
+E100006695_33	ventral forebrain	brain	Brain	Brain	#FFDD00	1	61	#F1BF46	has hypothalamus  (AVP + OXT)	discuss
+E100006698_81	thalamus	brain	Brain	Brain	#FFDD00	1	69	#F1BF46		
+E100006697_49	thalamus	brain	Brain	Brain	#FFDD00	1	69	#F1BF46		
+E100006695_123	thalamus	brain	Brain	Brain	#FFDD00	1	69	#F1BF46		
+E100006695_116	thalamus	brain	Brain	Brain	#FFDD00	1	69	#F1BF46		
+E100006703_125	midbrain	brain	Brain	Brain	#FFDD00	1	75	#F1BF46		
+E100006698_62	midbrain	brain	Brain	Brain	#FFDD00	1	75	#F1BF46		
+E100006697_38	midbrain	brain	Brain	Brain	#FFDD00	1	75	#F1BF46		
+E100006695_125	midbrain	brain	Brain	Brain	#FFDD00	1	75	#F1BF46		
+E100006695_115	midbrain	brain	Brain	Brain	#FFDD00	1	75	#F1BF46		
+E100006697_128	corpus callosum	brain	Brain	Brain	#FFDD00	1	89	#F1BF46		
+E100006695_34	corpus callosum	brain	Brain	Brain	#FFDD00	1	89	#F1BF46		
+E100006697_117	choroid plexus	choroid plexus	Brain	Brain	#FFDD00	1	99	#F1BF46		
+E100006695_56	choroid plexus	choroid plexus	Brain	Brain	#FFDD00	1	99	#F1BF46		
+E100006695_100	choroid plexus	choroid plexus	Brain	Brain	#FFDD00	1	99	#F1BF46	has hypothalamus  (AVP + OXT)	discuss
+E100006703_124	ventral hippocampus	brain	Brain	Brain	#FFDD00	1	116	#F1BF46		
+E100006703_117	ventral hippocampus	brain	Brain	Brain	#FFDD00	1	116	#F1BF46		
+E100006701_117	ventral hippocampus	brain	Brain	Brain	#FFDD00	1	116	#F1BF46		
+E100006700_124	ventral hippocampus	brain	Brain	Brain	#FFDD00	1	116	#F1BF46		
+E100006695_38	ventral hippocampus	brain	Brain	Brain	#FFDD00	1	116	#F1BF46		
+E100006695_26	ventral hippocampus	brain	Brain	Brain	#FFDD00	1	116	#F1BF46		
+E100006695_117	ventral hippocampus	brain	Brain	Brain	#FFDD00	1	116	#F1BF46		
+E100006703_38	ventral spinal cord	brain	Brain	Brain	#FFDD00	1	118	#F1BF46		
+E100006697_39	ventral spinal cord	brain	Brain	Brain	#FFDD00	1	118	#F1BF46		
+E100006695_97	ventral spinal cord	brain	Brain	Brain	#FFDD00	1	118	#F1BF46		
+E100006695_53	ventral spinal cord	brain	Brain	Brain	#FFDD00	1	118	#F1BF46		
+E100006697_32	dorsal root ganglion	brain	Brain	Brain	#FFDD00	1	123	#F1BF46		
+E100006697_28	dorsal root ganglion	brain	Brain	Brain	#FFDD00	1	123	#F1BF46	got some cerebellum genes	FALSE
+E100006697_25	dorsal root ganglion	brain	Brain	Brain	#FFDD00	1	123	#F1BF46		
+E100006695_90	dorsal root ganglion	brain	Brain	Brain	#FFDD00	1	123	#F1BF46		
+E100006703_53	hypothalamus	brain	Brain	Brain	#FFDD00	1	126	#F1BF46		
+E100006703_35	hypothalamus	brain	Brain	Brain	#FFDD00	1	126	#F1BF46		
+E100006703_28	hypothalamus	brain	Brain	Brain	#FFDD00	1	126	#F1BF46		
+E100006695_92	hypothalamus	brain	Brain	Brain	#FFDD00	1	126	#F1BF46		
+E100006695_28	hypothalamus	brain	Brain	Brain	#FFDD00	1	126	#F1BF46		
+E100006703_127	septal area	brain	Brain	Brain	#FFDD00	1	131	#F1BF46		
+E100006703_114	septal area	brain	Brain	Brain	#FFDD00	1	131	#F1BF46		
+E100006698_68	septal area	brain	Brain	Brain	#FFDD00	1	131	#F1BF46		
+E100006698_127	septal area	brain	Brain	Brain	#FFDD00	1	131	#F1BF46		
+E100006695_52	septal area	brain	Brain	Brain	#FFDD00	1	131	#F1BF46		
+E100006695_127	septal area	brain	Brain	Brain	#FFDD00	1	131	#F1BF46		
+E100006697_42	frontal cortex	brain	Brain	Brain	#FFDD00	1	10166	#F1BF46		
+E100006695_91	frontal cortex	brain	Brain	Brain	#FFDD00	1	10166	#F1BF46		
+E100006695_37	frontal cortex	brain	Brain	Brain	#FFDD00	1	10166	#F1BF46		
+E100006695_25	frontal cortex	brain	Brain	Brain	#FFDD00	1	10166	#F1BF46		
+E100006697_47	occipital cortex	brain	Brain	Brain	#FFDD00	1	10171	#F1BF46		
+E100006697_43	occipital cortex	brain	Brain	Brain	#FFDD00	1	10171	#F1BF46		
+E100006695_94	occipital cortex	brain	Brain	Brain	#FFDD00	1	10171	#F1BF46		
+E100006695_104	occipital cortex	brain	Brain	Brain	#FFDD00	1	10171	#F1BF46		
+E100006698_58	amygdala	brain	Brain	Brain	#FFDD00	1	11181	#F1BF46		
+E100006697_50	amygdala	brain	Brain	Brain	#FFDD00	1	11181	#F1BF46		
+E100006697_44	amygdala	brain	Brain	Brain	#FFDD00	1	11181	#F1BF46		
+E100006697_124	amygdala	brain	Brain	Brain	#FFDD00	1	11181	#F1BF46		
+E100006698_61	pons	brain	Brain	Brain	#FFDD00	1	14273	#F1BF46		
+E100006698_60	pons	brain	Brain	Brain	#FFDD00	1	14273	#F1BF46		
+E100006698_57	pons	brain	Brain	Brain	#FFDD00	1	14273	#F1BF46		
+E100006695_51	pons	brain	Brain	Brain	#FFDD00	1	14273	#F1BF46	got some dopamine neurons(midbrain) bu still pons for sure. Probably fine	Discuss
+E100006698_59	medulla oblongata	brain	Brain	Brain	#FFDD00	1	14285	#F1BF46		
+E100006697_48	medulla oblongata	brain	Brain	Brain	#FFDD00	1	14285	#F1BF46		
+E100006697_46	medulla oblongata	brain	Brain	Brain	#FFDD00	1	14285	#F1BF46		
+E100006695_93	medulla oblongata	brain	Brain	Brain	#FFDD00	1	14285	#F1BF46		
+E100006697_41	cerebellum	brain	Brain	Brain	#FFDD00	1	14789	#F1BF46		
+E100006697_16	cerebellum	brain	Brain	Brain	#FFDD00	1	14789	#F1BF46		
+E100006697_126	cerebellum	brain	Brain	Brain	#FFDD00	1	14789	#F1BF46		
+E100006695_36	cerebellum	brain	Brain	Brain	#FFDD00	1	14789	#F1BF46		
+E100006703_39	retina	retina	Eye	Eye	#FFEF78	2	97	#F7EF8A		
+E100006702_65	retina	retina	Eye	Eye	#FFEF78	2	97	#F7EF8A		
+E100006701_61	retina	retina	Eye	Eye	#FFEF78	2	97	#F7EF8A		
+E100006701_39	retina	retina	Eye	Eye	#FFEF78	2	97	#F7EF8A		
+E100006700_61	retina	retina	Eye	Eye	#FFEF78	2	97	#F7EF8A		
+E100006697_101	retina	retina	Eye	Eye	#FFEF78	2	97	#F7EF8A		
+E100006695_39	retina	retina	Eye	Eye	#FFEF78	2	97	#F7EF8A		
+E100006695_101	retina	retina	Eye	Eye	#FFEF78	2	97	#F7EF8A		
+E100006701_28	cornea	cornea	Eye	Eye	#FFEF78	2	111	#F7EF8A		
+E100006699_4	cornea	cornea	Eye	Eye	#FFEF78	2	111	#F7EF8A		
+E100006703_98	lens	lens	Eye	Eye	#FFEF78	2	113	#F7EF8A		
+E100006699_82	lens	lens	Eye	Eye	#FFEF78	2	113	#F7EF8A		
+E100006699_67	lens	lens	Eye	Eye	#FFEF78	2	113	#F7EF8A		
+E100006702_89	thyroid gland	thyroid gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	90	#A794B2	with skeletal muscle	discuss
+E100006700_70	thyroid gland	thyroid gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	90	#A794B2		
+E100006700_121	thyroid gland	thyroid gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	90	#A794B2		
+E100006699_70	thyroid gland	thyroid gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	90	#A794B2		
+E100006698_73	thyroid gland	thyroid gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	90	#A794B2	with skeletal muscle	discuss
+E100006695_89	thyroid gland	thyroid gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	90	#A794B2	with skeletal muscle	discuss
+E100006699_89	parathyroid gland	parathyroid gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	91	#A794B2		
+E100006699_76	parathyroid gland	parathyroid gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	91	#A794B2	caught immune cells 	discuss
+E100006697_114	parathyroid gland	parathyroid gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	91	#A794B2	got more fat	discuss
+E100006702_73	adrenal gland	adrenal gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	92	#A794B2		
+E100006702_46	adrenal gland	adrenal gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	92	#A794B2		
+E100006702_2	adrenal gland	adrenal gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	92	#A794B2		
+E100006697_13	adrenal gland	adrenal gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	92	#A794B2		
+E100006703_126	pituitary gland	pituitary gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	98	#A794B2		
+E100006700_126	pituitary gland	pituitary gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	98	#A794B2		
+E100006697_115	pituitary gland	pituitary gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	98	#A794B2		
+E100006695_50	pituitary gland	pituitary gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	98	#A794B2		
+E100006695_121	pituitary gland	pituitary gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	98	#A794B2		
+E100006703_56	pineal gland	pineal gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	99	#A794B2		
+E100006703_49	pineal gland	pineal gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	99	#A794B2		
+E100006702_93	pineal gland	pineal gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	99	#A794B2		
+E100006698_93	pineal gland	pineal gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	99	#A794B2		
+E100006695_83	pineal gland	pineal gland	Endocrine tissues	Endocrine tissues	#7F6A9C	3	99	#A794B2		
+E100006702_48	bronchus	lung	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006702_3	bronchus	lung	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006701_42	bronchus	lung	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006697_56	bronchus	lung	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006703_45	larynx	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006702_78	larynx	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006700_91	larynx	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006697_98	larynx	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006703_47	nasopharynx epithelium	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93	Squamous	Discuss
+E100006702_81	nasopharynx epithelium	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93	Ciliated/squamous transition	Discuss
+E100006702_60	nasopharynx epithelium	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93	Purely ciliated cells	Discuss
+E100006701_65	nasopharynx epithelium	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93	Ciliated/squamous transition	Discuss
+E100006701_47	nasopharynx epithelium	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93	Squamous	Discuss
+E100006703_100	olfactory epithelium	olfactory epithelium	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006702_82	olfactory epithelium	olfactory epithelium	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93	"Not the cleanest, Got a bi too close to trachea"	Discuss
+E100006700_92	olfactory epithelium	olfactory epithelium	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006699_92	olfactory epithelium	olfactory epithelium	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006699_44	olfactory epithelium	olfactory epithelium	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006701_56	trachea	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006700_72	trachea	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006700_122	trachea	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93	not cleanest sample	discuss
+E100006695_81	trachea	upper respiratory system	Respiratory system	Respiratory system	#6AA692	4	0	#98BB93		
+E100006702_79	lung	lung	Respiratory system	Respiratory system	#6AA692	4	102	#98BB93		
+E100006702_58	lung	lung	Respiratory system	Respiratory system	#6AA692	4	102	#98BB93		
+E100006702_15	lung	lung	Respiratory system	Respiratory system	#6AA692	4	102	#98BB93		
+E100006701_62	lung	lung	Respiratory system	Respiratory system	#6AA692	4	102	#98BB93		
+E100006703_48	oral mucosa	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	0	#F09598		
+E100006701_38	oral mucosa	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	0	#F09598		
+E100006700_93	oral mucosa	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	0	#F09598		
+E100006699_93	oral mucosa	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	0	#F09598		
+E100006698_84	oral mucosa	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	0	#F09598	got a bit of lip skin	
+E100006703_50	lip	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	0	#F09598		
+E100006701_72	lip	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	0	#F09598		
+E100006701_50	lip	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	0	#F09598		
+E100006700_98	lip	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	0	#F09598		
+E100006700_64	lip	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	0	#F09598		
+E100006700_95	salivary gland	salivary gland	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	11	#F09598		
+E100006700_62	salivary gland	salivary gland	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	11	#F09598		
+E100006698_3	salivary gland	salivary gland	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	11	#F09598		
+E100006697_45	salivary gland	salivary gland	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	11	#F09598		
+E100006701_57	esophagus	esophagus	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	12	#F09598	caught a bit of thyroid gland	discuss
+E100006701_114	esophagus	esophagus	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	12	#F09598		
+E100006700_87	esophagus	esophagus	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	12	#F09598		
+E100006699_14	esophagus	esophagus	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	12	#F09598	caught a bit of lung	discuss
+E100006695_87	esophagus	esophagus	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	12	#F09598		
+E100006695_114	esophagus	esophagus	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	12	#F09598		
+E100006702_90	tongue	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	174	#F09598		
+E100006702_68	tongue	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	174	#F09598		
+E100006701_71	tongue	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	174	#F09598		
+E100006700_71	tongue	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	174	#F09598		
+E100006699_71	tongue	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	174	#F09598		
+E100006697_80	tongue	mouth	Proximal digestive tract	Proximal digestive tract	#FBDAD9	5	174	#F09598		
+E100006701_44	cecum	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006700_78	cecum	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006699_79	cecum	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006697_51	cecum	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006702_88	ileum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006702_76	ileum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006701_58	ileum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006700_88	ileum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006697_34	ileum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2	got a bit of seminal vescicle genes	FALSE
+E100006695_88	ileum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006703_44	jejunum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006701_34	jejunum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006700_89	jejunum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006697_97	jejunum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006702_41	stomach (lower)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006701_51	stomach (lower)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006697_74	stomach (lower)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006697_36	stomach (lower)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006701_53	stomach (upper)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006700_67	stomach (upper)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006700_101	stomach (upper)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006697_102	stomach (upper)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	0	#1876B2		
+E100006700_66	stomach (middle)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	134	#1876B2		
+E100006700_100	stomach (middle)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	134	#1876B2		
+E100006699_66	stomach (middle)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	134	#1876B2		
+E100006698_65	stomach (middle)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	134	#1876B2		
+E100006698_4	stomach (middle)	stomach	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	134	#1876B2		
+E100006703_13	colon	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006700_79	colon	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2	Has pancreas genes	FALSE
+E100006699_13	colon	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006698_80	colon	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006698_1	colon	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006697_79	colon	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2	Has pancreas genes	FALSE
+E100006702_85	rectum	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006702_67	rectum	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006702_64	rectum	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006701_67	rectum	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006701_60	rectum	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006700_60	rectum	large intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006703_29	duodenum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006701_29	duodenum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006700_82	duodenum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006698_76	duodenum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2	Has pancreas genes	FALSE
+E100006698_74	duodenum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2	Has pancreas genes	FALSE
+E100006697_29	duodenum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006695_29	duodenum	small intestine	Gastrointestinal tract	Gastrointestinal tract	#1280C4	6	235	#1876B2		
+E100006702_57	liver (lobe 1)	liver	Liver & gallbladder	Liver & Gallbladder	#D1CBE5	7	125	#38999B		
+E100006701_36	liver (lobe 1)	liver	Liver & gallbladder	Liver & Gallbladder	#D1CBE5	7	125	#38999B		
+E100006699_41	liver (lobe 1)	liver	Liver & gallbladder	Liver & Gallbladder	#D1CBE5	7	125	#38999B		
+E100006697_15	liver (lobe 1)	liver	Liver & gallbladder	Liver & Gallbladder	#D1CBE5	7	125	#38999B		
+E100006703_37	liver (lobe 4)	liver	Liver & gallbladder	Liver & Gallbladder	#D1CBE5	7	126	#38999B		
+E100006701_37	liver (lobe 4)	liver	Liver & gallbladder	Liver & Gallbladder	#D1CBE5	7	126	#38999B		
+E100006699_68	liver (lobe 4)	liver	Liver & gallbladder	Liver & Gallbladder	#D1CBE5	7	126	#38999B		
+E100006699_42	liver (lobe 4)	liver	Liver & gallbladder	Liver & Gallbladder	#D1CBE5	7	126	#38999B		
+E100006697_14	liver (lobe 4)	liver	Liver & gallbladder	Liver & Gallbladder	#D1CBE5	7	126	#38999B		
+E100006699_83	pancreas	pancreas	Pancreas	Pancreas	#96C08E	8	4	#D1CBE5		
+E100006699_45	pancreas	pancreas	Pancreas	Pancreas	#96C08E	8	4	#D1CBE5		
+E100006698_75	pancreas	pancreas	Pancreas	Pancreas	#96C08E	8	4	#D1CBE5		
+E100006697_100	pancreas	pancreas	Pancreas	Pancreas	#96C08E	8	4	#D1CBE5		
+E100006701_59	kidney (cortex)	kidney	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	0	#EEC2D8		
+E100006701_35	kidney (cortex)	kidney	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	0	#EEC2D8		
+E100006700_90	kidney (cortex)	kidney	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	0	#EEC2D8		
+E100006700_59	kidney (cortex)	kidney	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	0	#EEC2D8		
+E100006699_15	kidney (cortex)	kidney	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	0	#EEC2D8		
+E100006703_97	kidney (medulla)	kidney	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	0	#EEC2D8		
+E100006702_77	kidney (medulla)	kidney	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	0	#EEC2D8		
+E100006702_14	kidney (medulla)	kidney	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	0	#EEC2D8		
+E100006698_83	kidney (medulla)	kidney	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	0	#EEC2D8		
+E100006702_69	urinary bladder	urinary bladder	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	32	#EEC2D8		
+E100006702_42	urinary bladder	urinary bladder	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	32	#EEC2D8		
+E100006701_1	urinary bladder	urinary bladder	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	32	#EEC2D8		
+E100006695_82	urinary bladder	urinary bladder	Kidney & urinary bladder	Kidney & Urinary bladder	#F9A266	9	32	#EEC2D8		
+E100006700_77	bulbourethral gland	male glands	Male reproductive system	Male tissues	#95D4F5	10	0	#178F5D		
+E100006700_94	penis	penis	Male reproductive system	Male tissues	#95D4F5	10	0	#178F5D		
+E100006700_57	penis	penis	Male reproductive system	Male tissues	#95D4F5	10	0	#178F5D		
+E100006700_69	testis	testis	Male reproductive system	Male tissues	#95D4F5	10	40	#178F5D		
+E100006697_53	testis	testis	Male reproductive system	Male tissues	#95D4F5	10	40	#178F5D		
+E100006700_86	epididymis	epididymis	Male reproductive system	Male tissues	#95D4F5	10	42	#178F5D		
+E100006699_86	epididymis	epididymis	Male reproductive system	Male tissues	#95D4F5	10	42	#178F5D		
+E100006697_33	epididymis	epididymis	Male reproductive system	Male tissues	#95D4F5	10	42	#178F5D		
+E100006702_63	prostate	male glands	Male reproductive system	Male tissues	#95D4F5	10	43	#178F5D	caught more seminal vesicle genes	discuss
+E100006702_62	prostate	male glands	Male reproductive system	Male tissues	#95D4F5	10	43	#178F5D	caught more seminal vesicle genes	discuss
+E100006699_46	prostate	male glands	Male reproductive system	Male tissues	#95D4F5	10	43	#178F5D	"has prostatic glandular cells, good"	
+E100006698_79	prostate	male glands	Male reproductive system	Male tissues	#95D4F5	10	43	#178F5D	"has prostatic glandular cells, good"	
+E100006697_52	prostate	male glands	Male reproductive system	Male tissues	#95D4F5	10	43	#178F5D	caught more seminal vesicle genes	discuss
+E100006700_96	seminal vesicle	male glands	Male reproductive system	Male tissues	#95D4F5	10	44	#178F5D		
+E100006697_35	seminal vesicle	male glands	Male reproductive system	Male tissues	#95D4F5	10	44	#178F5D		
+E100006703_46	male preputial gland	male glands	Male reproductive system	Male tissues	#95D4F5	10	127	#178F5D		
+E100006702_59	male preputial gland	male glands	Male reproductive system	Male tissues	#95D4F5	10	127	#178F5D		
+E100006703_14	ductus deferens	ductus deferens	Male reproductive system	Male tissues	#95D4F5	10	173	#178F5D		
+E100006701_14	ductus deferens	ductus deferens	Male reproductive system	Male tissues	#95D4F5	10	173	#178F5D		
+E100006700_81	ductus deferens	ductus deferens	Male reproductive system	Male tissues	#95D4F5	10	173	#178F5D		
+E100006701_26	vagina	vagina	Breast & female reproductive system	Female tissues	#F8BDD7	11	1	#886AA0		
+E100006701_2	vagina	vagina	Breast & female reproductive system	Female tissues	#F8BDD7	11	1	#886AA0		
+E100006702_96	breast	breast	Breast & female reproductive system	Female tissues	#F8BDD7	11	50	#886AA0		
+E100006700_127	breast	breast	Breast & female reproductive system	Female tissues	#F8BDD7	11	50	#886AA0	"got a bit of skin, but fine no?"	
+E100006695_96	breast	breast	Breast & female reproductive system	Female tissues	#F8BDD7	11	50	#886AA0		
+E100006703_121	cervix	cervix	Breast & female reproductive system	Female tissues	#F8BDD7	11	53	#886AA0		
+E100006701_45	cervix	cervix	Breast & female reproductive system	Female tissues	#F8BDD7	11	53	#886AA0		
+E100006702_74	endometrium 1	endometrium	Breast & female reproductive system	Female tissues	#F8BDD7	11	55	#886AA0	"has high msucle tissue, similar to uterus 6702_91"	Discuss
+E100006699_95	endometrium 1	endometrium	Breast & female reproductive system	Female tissues	#F8BDD7	11	55	#886AA0	more simlar to rest of uterus	Discuss
+E100006702_75	fallopian tube	fallopian tube	Breast & female reproductive system	Female tissues	#F8BDD7	11	58	#886AA0		
+E100006699_96	fallopian tube	fallopian tube	Breast & female reproductive system	Female tissues	#F8BDD7	11	58	#886AA0		
+E100006703_101	ovary	ovary	Breast & female reproductive system	Female tissues	#F8BDD7	11	59	#886AA0		
+E100006702_83	ovary	ovary	Breast & female reproductive system	Female tissues	#F8BDD7	11	59	#886AA0		
+E100006702_13	clitoris	clitoris	Breast & female reproductive system	Female tissues	#F8BDD7	11	121	#886AA0		
+E100006701_13	clitoris	clitoris	Breast & female reproductive system	Female tissues	#F8BDD7	11	121	#886AA0		
+E100006695_84	clitoris	clitoris	Breast & female reproductive system	Female tissues	#F8BDD7	11	121	#886AA0		
+E100006703_4	female preputial gland	female glands	Breast & female reproductive system	Female tissues	#F8BDD7	11	124	#886AA0		
+E100006702_4	female preputial gland	female glands	Breast & female reproductive system	Female tissues	#F8BDD7	11	124	#886AA0		
+E100006701_4	female preputial gland	female glands	Breast & female reproductive system	Female tissues	#F8BDD7	11	124	#886AA0		
+E100006703_104	uterus	uterus	Breast & female reproductive system	Female tissues	#F8BDD7	11	136	#886AA0		
+E100006702_91	uterus	uterus	Breast & female reproductive system	Female tissues	#F8BDD7	11	136	#886AA0		
+E100006700_104	uterus	uterus	Breast & female reproductive system	Female tissues	#F8BDD7	11	136	#886AA0		
+E100006698_104	uterus	uterus	Breast & female reproductive system	Female tissues	#F8BDD7	11	136	#886AA0		
+E100006703_99	heart atrium	heart	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006703_42	heart atrium	heart	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006703_32	heart atrium	heart	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006701_32	heart atrium	heart	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006699_64	heart atrium	heart	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006703_43	heart wall	heart	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006701_64	heart wall	heart	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006699_65	heart wall	heart	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006698_2	heart wall	heart	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006703_102	smooth muscle (intestine)	smooth muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006702_86	smooth muscle (intestine)	smooth muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C	didn't catch smooth muscle	FALSE
+E100006700_99	smooth muscle (intestine)	smooth muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006699_57	smooth muscle (intestine)	smooth muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006697_99	smooth muscle (intestine)	smooth muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006695_102	smooth muscle (intestine)	smooth muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006701_69	skeletal muscle	skeletal muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	122	#734F3C		
+E100006701_63	skeletal muscle	skeletal muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	122	#734F3C		
+E100006701_49	skeletal muscle	skeletal muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	122	#734F3C		
+E100006700_97	skeletal muscle	skeletal muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	122	#734F3C		
+E100006700_63	skeletal muscle	skeletal muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	122	#734F3C		
+E100006695_49	skeletal muscle	skeletal muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	122	#734F3C		
+E100006703_123	diaphragm	skeletal muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	122	#734F3C		
+E100006702_71	diaphragm	skeletal muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	122	#734F3C		
+E100006701_3	diaphragm	skeletal muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	122	#734F3C		
+E100006700_74	diaphragm	skeletal muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	122	#734F3C		
+E100006699_74	diaphragm	skeletal muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	122	#734F3C		
+E100006698_82	smooth muscle (uterus)	smooth muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	133	#734F3C		
+E100006697_73	smooth muscle (uterus)	smooth muscle	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	133	#734F3C		
+E100006703_1	abdominal adipose tissue	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F	"high on immune cells, lots of adrenal gland"	FALSE
+E100006702_94	abdominal adipose tissue	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F	lots of adrenal gland	review
+E100006702_44	abdominal adipose tissue	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F	lots of adrenal gland	review
+E100006698_94	abdominal adipose tissue	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F	lots of adrenal gland	review
+E100006697_116	abdominal adipose tissue	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F	lots of adrenal gland	review
+E100006702_72	orbital adipose tissue	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006702_45	orbital adipose tissue	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006702_1	orbital adipose tissue	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006699_90	orbital adipose tissue	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006700_76	aorta	aorta	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006699_78	aorta	aorta	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006699_1	aorta	aorta	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006698_70	aorta	aorta	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	0	#734F3C		
+E100006701_43	ear cartilage	cartilage	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006701_25	ear cartilage	cartilage	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006699_63	ear cartilage	cartilage	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006697_30	joint cartilage	cartilage	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006700_58	pleura	mesothelial tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006701_116	synovial tissue	synovial tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006699_58	synovial tissue	synovial tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006697_103	synovial tissue	synovial tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006703_122	vagus nerve	vagus nerve	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006702_92	vagus nerve	vagus nerve	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006702_70	vagus nerve	vagus nerve	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006700_73	vagus nerve	vagus nerve	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006695_122	vagus nerve	vagus nerve	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	0	#E57C1F		
+E100006702_16	artery	peripheral vasculature	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	119	#734F3C		
+E100006701_16	artery	peripheral vasculature	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	119	#734F3C		
+E100006699_61	artery	peripheral vasculature	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	119	#734F3C	has thyroid gland markers	discuss
+E100006703_3	brown adipose	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	120	#E57C1F		
+E100006702_47	brown adipose	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	120	#E57C1F		
+E100006701_41	brown adipose	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	120	#E57C1F	has skeletal msc	Discuss
+E100006700_125	brown adipose	adipose tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	120	#E57C1F	has thyroid gland markers	Discuss
+E100006697_125	meninges	meninges	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	128	#E57C1F		
+E100006695_86	meninges	meninges	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	128	#E57C1F		
+E100006695_35	meninges	meninges	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	128	#E57C1F		
+E100006695_126	meninges	meninges	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	128	#E57C1F		
+E100006703_15	outer ear	outer ear	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	129	#E57C1F	more cartilage	discuss
+E100006701_15	outer ear	outer ear	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	129	#E57C1F	more cartilage	discuss
+E100006700_83	outer ear	outer ear	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	129	#E57C1F	between both	discuss
+E100006698_78	outer ear	outer ear	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	129	#E57C1F	with serous glands	discuss
+E100006698_66	outer ear	outer ear	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	129	#E57C1F	with serous glands	discuss
+E100006702_84	pericardium	mesothelial tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	130	#E57C1F		
+E100006702_61	pericardium	mesothelial tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	130	#E57C1F		
+E100006701_66	pericardium	mesothelial tissue	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	130	#E57C1F		
+E100006701_68	tear gland	tear gland	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	135	#E57C1F		
+E100006701_55	tear gland	tear gland	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	135	#E57C1F		
+E100006700_68	tear gland	tear gland	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	135	#E57C1F		
+E100006700_103	tear gland	tear gland	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	135	#E57C1F		
+E100006700_102	tear gland	tear gland	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	135	#E57C1F	more skin	FALSE
+E100006699_87	tear gland	tear gland	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	135	#E57C1F	more skin	FALSE
+E100006699_59	tear gland	tear gland	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	135	#E57C1F	more skin	FALSE
+E100006697_77	tear gland	tear gland	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	135	#E57C1F		
+E100006697_76	tear gland	tear gland	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	135	#E57C1F	more skin	FALSE
+E100006695_55	tear gland	tear gland	Connective & soft tissue	Connective & Soft tissue	#A7DACD	13	135	#E57C1F		
+E100006700_123	vein	peripheral vasculature	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	137	#734F3C		
+E100006699_88	vein	peripheral vasculature	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	137	#734F3C	not super clean	FALSE
+E100006699_60	vein	peripheral vasculature	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	137	#734F3C		
+E100006697_123	vein	peripheral vasculature	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	137	#734F3C		
+E100006697_104	vein	peripheral vasculature	Muscle & vascular tissue	Muscle tissues	#B38C6D	12	137	#734F3C	got a bit of breast tissue?	FALSE
+E100006701_70	skin (groin)	skin	Skin	Skin	#FCCAB3	14	0	#5AB6C8		
+E100006699_84	skin (groin)	skin	Skin	Skin	#FCCAB3	14	0	#5AB6C8		
+E100006699_72	skin (groin)	skin	Skin	Skin	#FCCAB3	14	0	#5AB6C8		
+E100006699_47	skin (groin)	skin	Skin	Skin	#FCCAB3	14	0	#5AB6C8		
+E100006699_85	skin (back)	skin	Skin	Skin	#FCCAB3	14	0	#5AB6C8		
+E100006699_73	skin (back)	skin	Skin	Skin	#FCCAB3	14	0	#5AB6C8		
+E100006699_48	skin (back)	skin	Skin	Skin	#FCCAB3	14	0	#5AB6C8		
+E100006698_72	skin (back)	skin	Skin	Skin	#FCCAB3	14	0	#5AB6C8		
+E100006703_41	skin (eye)	skin	Skin	Skin	#FCCAB3	14	132	#5AB6C8		
+E100006703_16	skin (eye)	skin	Skin	Skin	#FCCAB3	14	132	#5AB6C8		
+E100006701_48	skin (eye)	skin	Skin	Skin	#FCCAB3	14	132	#5AB6C8		
+E100006701_30	skin (eye)	skin	Skin	Skin	#FCCAB3	14	132	#5AB6C8		
+E100006700_85	skin (eye)	skin	Skin	Skin	#FCCAB3	14	132	#5AB6C8		
+E100006700_84	skin (eye)	skin	Skin	Skin	#FCCAB3	14	132	#5AB6C8		
+E100006699_94	skin (eye)	skin	Skin	Skin	#FCCAB3	14	132	#5AB6C8		
+E100006699_81	skin (eye)	skin	Skin	Skin	#FCCAB3	14	132	#5AB6C8		
+E100006695_85	skin (eye)	skin	Skin	Skin	#FCCAB3	14	132	#5AB6C8		
+E100006695_30	skin (eye)	skin	Skin	Skin	#FCCAB3	14	132	#5AB6C8		
+E100006699_91	bone marrow	bone marrow	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	70	#C43732		
+E100006699_62	bone marrow	bone marrow	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	70	#C43732		
+E100006699_2	bone marrow	bone marrow	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	70	#C43732		
+E100006697_55	bone marrow	bone marrow	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	70	#C43732		
+E100006702_80	lymph node	lymphoid tissue	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	245	#C43732	bit of urothelial cells	Discuss
+E100006699_69	lymph node	lymphoid tissue	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	245	#C43732	has pancreas genes	FALSE
+E100006699_43	lymph node	lymphoid tissue	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	245	#C43732		
+E100006698_71	lymph node	lymphoid tissue	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	245	#C43732		
+E100006703_103	spleen	lymphoid tissue	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	245	#C43732		
+E100006702_87	spleen	lymphoid tissue	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	245	#C43732	"few adrenal cortex genes, probably very few but still?"	Discuss
+E100006702_66	spleen	lymphoid tissue	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	245	#C43732		
+E100006700_65	spleen	lymphoid tissue	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	245	#C43732		
+E100006695_103	spleen	lymphoid tissue	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	245	#C43732		
+E100006698_77	thymus	lymphoid tissue	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	245	#C43732		
+E100006697_78	thymus	lymphoid tissue	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	245	#C43732		
+E100006697_37	thymus	lymphoid tissue	Bone marrow & immune system	Bone marrow & Lymphoid tissues	#DE6C7D	15	245	#C43732		
